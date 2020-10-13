@@ -1,7 +1,8 @@
 public class LocalMergeConflict {
 
     public static void main(String[] args) {
-        System.out.println("adde some local master brunch");
+        System.out.println("added some local master brunch");
         // adding more stuff here
+        //added final merge
     }
 }
